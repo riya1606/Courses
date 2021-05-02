@@ -19,7 +19,10 @@
      * Platform Independent
      * Supports Multithreading
      * Supports Structured and OOP programming paradigm
-     * Provides high level dynamic data types and supports dynamic checking
+     * Provides high level dynamic data types and supports dynamic checking: 
+            * It stores the value at some memory location 
+            * Binds the variable name to that memory container
+            * Makes content of container accessible through the Variable name
      * Can be easily integrated with C, C++, Java
      
      
