@@ -66,28 +66,5 @@
 
 ### Lecture 12:
 
-### Memory Allocation and Memory Management in Python
-Code: <br />
-x=10 <br />
-print(type(x)) <br />
-This will give output as: <class:int> because everything is object in python so x will point to the container which has value 10 present in it <br />
-y=x <br />
-This will create another reference variable 'y' which will contain reference to the same object in this case 10 <br />
-To verify let us compare their memory location using 'id function' <br />
-if(id(x)==id(y)): print("x and y refer to the same object") <br />
-This will give an output as: "x and y refer to the same object" which means both x and y are refering to the same object <br />
-x=x+1 <br />
-Now this makes x=11 and x starts refering to a new object which is a container that contains 11 <br />
-if(id(x)!=id(y)): print("they refer to different objects") <br />
-This shows that x=11 and y=10 refer two different objects <br />
-z=10 <br />
-Now let us create a third variable z and let us compare its id with y <br />
-if(id(z)==id(y)): print("z and y refer to the same object") <br />
-else: print("z and y refer to different objects") <br />
-The output is that: "z and y refer to the same object" which is surprising and the reason is python optimizes memory utilisation by allocating the same object reference to a new variable if the object already exists with the same value <br />
-z="riya" <br />
-print(type(z)) <br />
-The output is: <class 'str'> <br />
-Therefore Python is dynamically typed language <br />
 
 
