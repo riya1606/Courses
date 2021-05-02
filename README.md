@@ -1,5 +1,6 @@
 # MITCourses
 ## Introduction to Computer Science and Programming in Python - Dr. Ana Bell
+
 ### Pre Requisite:
 * Programming Language and Scripting Language
 * Program: A sequence of instructions written so that a computer can perform certain task.
@@ -17,6 +18,11 @@
      * Provides both single and multiple inheritance
      * Platform Independent
      * Supports Multithreading
+     * Supports Structured and OOP programming paradigm
+     * Provides high level dynamic data types and supports dynamic checking
+     * Can be easily integrated with C, C++, Java
+     
+     
 ### Lecture 1:
 
 
