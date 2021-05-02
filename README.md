@@ -67,7 +67,7 @@
 ### Lecture 12:
 
 ### Memory Allocation and Memory Management in Python
-Code:
+Code: <br />
 x=10 <br />
 print(type(x)) <br />
 This will give output as: <class:int> because everything is object in python so x will point to the container which has value 10 present in it <br />
