@@ -1,3 +1,4 @@
+![Python-data-structure](https://user-images.githubusercontent.com/62128029/116846236-7d2f5500-ac05-11eb-80f6-5f6cc0d31223.jpg)
 # MITCourses
 ## Introduction to Computer Science and Programming in Python - Dr. Ana Bell
 
@@ -25,7 +26,8 @@
             3. Makes content of container accessible through the Variable name
      * Can be easily integrated with C, C++, Java
      * Since everything in python is an Object, data types are actually classes and variables are instances (objects) of these classes  
-     
+     ![Python-data-structure](https://user-images.githubusercontent.com/62128029/116846250-85879000-ac05-11eb-9fa4-4ba30cbabc3e.jpg)
+
      
 ### Lecture 1:
 
