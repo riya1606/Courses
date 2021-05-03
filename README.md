@@ -1,4 +1,4 @@
-![Python-data-structure](https://user-images.githubusercontent.com/62128029/116846236-7d2f5500-ac05-11eb-80f6-5f6cc0d31223.jpg)
+
 # MITCourses
 ## Introduction to Computer Science and Programming in Python - Dr. Ana Bell
 
