@@ -24,6 +24,7 @@
             2. Binds the variable name to that memory container
             3. Makes content of container accessible through the Variable name
      * Can be easily integrated with C, C++, Java
+     * Since everything in python is an Object, data types are actually classes and variables are instances (objects) of these classes  
      
      
 ### Lecture 1:
