@@ -1,12 +1,13 @@
 
 # MIT Courses
 ## Introduction to Computer Science and Programming in Python - Dr. Ana Bell
-
 ### Pre Requisite:
-* Programming Language and Scripting Language
-* Program: A sequence of instructions written so that a computer can perform certain task.
-* Script: You can write code to control another software application. They have short development cycle and can be created and deployed rapidly.
-* All Scripting Language are programming language. Scripting language do not require compilation and are interpreted instead.
+* Programming Language and Scripting Language:
+       * Program: A sequence of instructions written so that a computer can perform certain task.
+       * Script: You can write code to control another software application. They have short development cycle and can be created and deployed rapidly.
+       * All Scripting Language are programming language. Scripting language do not require compilation and are interpreted instead.
+     
+     <br/>
 * Python:-
      * General Purpose Language
      * Interpreted
@@ -27,7 +28,7 @@
      * Can be easily integrated with C, C++, Java
      * Since everything in python is an Object, data types are actually classes and variables are instances (objects) of these classes  
      ![Python-data-structure](https://user-images.githubusercontent.com/62128029/116846250-85879000-ac05-11eb-9fa4-4ba30cbabc3e.jpg)
-
+    <br/>
      
 ### Lecture 1:
 
