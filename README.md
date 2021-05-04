@@ -39,7 +39,16 @@
 * Operator Precedence
 
 ### Lecture 2:
-
+* Strings
+* Comparison Operator
+* Branching:
+    * if
+    * elif
+    * else 
+* Indentation
+* Iterations:
+    * While Loop
+    * For Loop --> range(start,stop,step)
 
 
 ### Lecture 3:
