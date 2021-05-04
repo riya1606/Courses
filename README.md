@@ -54,7 +54,15 @@
 [Solution](https://gist.github.com/riya1606/8ab39d6a9f2cc5552a7a0f29f6d0fd5f)
 
 ### Lecture 3:
-
+* String Manipulation
+    * len()
+    * indexing
+    * slicing [start:stop:step]
+    * for loop in string
+* Algorithms
+    * Guess and Check
+    * Approximations
+    * Bisection Search
 
 
 ### Lecture 4:
