@@ -40,16 +40,18 @@
 
 ### Lecture 2:
 * Strings
+* input()- this gives you string so you must cast it. int(input("Enter a Number"))
 * Comparison Operator
-* Branching:
+* Control Flow - Branching:
     * if
     * elif
     * else 
 * Indentation
-* Iterations:
+* Control Flow - Iterations:
     * While Loop
     * For Loop --> range(start,stop,step)
-
+### pset0:
+[Solution](https://gist.github.com/riya1606/8ab39d6a9f2cc5552a7a0f29f6d0fd5f)
 
 ### Lecture 3:
 
