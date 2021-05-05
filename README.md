@@ -50,8 +50,6 @@
 * Control Flow - Iterations:
     * While Loop
     * For Loop --> range(start,stop,step)
-### pset0:
-[Solution](https://gist.github.com/riya1606/8ab39d6a9f2cc5552a7a0f29f6d0fd5f)
 
 ### Lecture 3:
 * String Manipulation
@@ -66,7 +64,12 @@
 
 
 ### Lecture 4:
-
+* Good Programming
+* Decomposition using Functions
+* Abstraction
+* Function Characteristic
+* Variable Scope
+* Function as Argument
 
 
 ### Lecture 5:
@@ -92,6 +95,8 @@
 
 
 ### Lecture 12:
+### pset0:
+[Solution](https://gist.github.com/riya1606/8ab39d6a9f2cc5552a7a0f29f6d0fd5f)
 
 # Princeton Courses
 ## Bitcoin and Cryptocurrency Technologies
