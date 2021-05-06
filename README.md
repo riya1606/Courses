@@ -73,7 +73,37 @@
 
 
 ### Lecture 5:
-
+* Tuples
+    * Immutable 
+    * Indexing
+    * Concatenation
+    * Slicing
+    * len()
+    * Can be used to swap variables conveniently
+    * To return multiple data from function as function can return only one object
+    * Iteration can be done over tuple
+* Lists
+    * Mutable 
+    * Indexing
+    * len()
+    * Slicing
+    * Change Elements- Lists are Mutable
+    * Iterating over a list
+    * .append()
+    * Concatenate
+    * del()
+    * pop()
+    * remove()
+    * sort()
+    * sorted()
+    * remove()
+* Converts List to String and String to List
+    * String to List: list(s)--> Every character from S an element in L
+    * String to List: s.split()--> To split a string on a character parameters(default:spaces)
+    * List to String: L.join()--> To turn a list into characters in a string (''.join(L)="abc" |||| '_'.join(L)="a_b_c")
+* Aliasing- Changing one changes the other
+* Mutability [:]
+* Cloning
 
 ### Lecture 6:
 
