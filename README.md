@@ -106,8 +106,22 @@
 * Cloning
 
 ### Lecture 6:
-
-
+* Recursion
+    * Algorithmically: Divide and Conquer
+    * Semantically: Function calls itself 
+    * Each Recursive Call to a function creates its own Scope/Environment
+    * Tower of Hanoi
+    * Fibonacci Numbers
+    * Recursion on Non- Numeric: Palindrome
+* Dictionaries
+    * Associates key to a value
+    * {}
+    * Add: dictionary_name['key']=value
+    * Test: 'key' in Dictionary 
+    * Delete: del(Dictionary_name['key'])
+    * dictionary.key()--> gives all keys in no specific order
+    * dictionary.value()--> gives all value in no specific order
+    * Inefficient Fibonacci can be made efficient using Dictionaries
 ### Lecture 7:
 
 
