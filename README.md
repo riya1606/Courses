@@ -123,7 +123,23 @@
     * dictionary.value()--> gives all value in no specific order
     * Inefficient Fibonacci can be made efficient using Dictionaries
 ### Lecture 7:
-
+* Aim for High Quality: Analogy with Soup
+* Testing
+    * Unit Testing
+    * Regression Testing
+    * Integration Testing
+    * Random Testing
+    * Black Box Testing
+    * Glass Box Testing
+* Debugging
+* Error Messages
+* Exceptions:
+    * try
+    * except 
+    * else
+    * finally
+    * raise
+* Assertions   
 
 ### Lecture 8:
 
