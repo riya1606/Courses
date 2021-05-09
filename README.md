@@ -142,7 +142,11 @@
 * Assertions   
 
 ### Lecture 8:
-
+* Object
+* OOP and Advantages of OOP
+* Creating and Using Classes
+* Define classes: data instances and methods or behaviour
+* Special Operators
 
 ### Lecture 9:
 
