@@ -149,7 +149,14 @@
 * Special Operators
 
 ### Lecture 9:
-
+* Write code from two Perspective: Implementing the Class, Using the Class
+* Class Definition of an object type and Instance of Class
+* Use of Object Oriented Programming
+* Getter and Setter
+* Information Hiding
+* Default Arguments
+* Hierarchies
+* Class Variables
 
 ### Lecture 10:
 
