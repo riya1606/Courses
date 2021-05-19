@@ -36,6 +36,7 @@
 * Python Basics: Syntax and Semantics
 * Everything in Python is an object. 
 * Scalar and Non Scalar Objects.(Scalar: Very Basic Objects, Cannot be Divided(int,float,bool,none type) and Non Scalar:Can be Divided(Set, Tuples))
+* Type Conversion-Casting
 * Operator Precedence
 
 ### Lecture 2:
