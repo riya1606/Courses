@@ -64,11 +64,12 @@
     * len()
     * indexing
     * slicing [start:stop:step]
+    * Strings are Immutable. Cannot be modified.
     * for loop in string
 * Algorithms
     * Guess and Check
     * Approximations
-    * Bisection Search
+    * Bisection Search (Within 6 guesses).
 
 
 ### Lecture 4: Decomposition, Abstractions, Functions	
