@@ -167,8 +167,7 @@
 
 
 ### Lecture 12:
-### pset0:
-[Solution](https://gist.github.com/riya1606/8ab39d6a9f2cc5552a7a0f29f6d0fd5f)
+
 
 # Princeton Courses
 ## Bitcoin and Cryptocurrency Technologies
