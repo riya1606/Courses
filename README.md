@@ -47,7 +47,8 @@
 ### Lecture 2: Branching and Iteration
 * Strings
 * input()- this gives you string so you must cast it. int(input("Enter a Number"))
-* Comparison Operator
+* Comparison Operator used on Strings (Lexiographical Order), int and float. This evaluates to a Boolean (>,<,>=,<=,==,!=).
+* Logical Operators on booleans. (and,or,not)
 * Control Flow - Branching:
     * if
     * elif
@@ -56,6 +57,7 @@
 * Control Flow - Iterations:
     * While Loop
     * For Loop --> range(start,stop,step)
+    * break statement
 
 ### Lecture 3: String Manipulation, Guess and Check, Approximations, Bisection
 * String Manipulation
