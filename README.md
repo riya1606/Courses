@@ -30,16 +30,21 @@
      ![Python-data-structure](https://user-images.githubusercontent.com/62128029/116846250-85879000-ac05-11eb-9fa4-4ba30cbabc3e.jpg)
     <br/>
      
-### Lecture 1:
+### Lecture 1: What Is Computation?
 * Important Course Information
 * What is Computation?
-* Python Basics: Syntax and Semantics
-* Everything in Python is an object. 
+* Knowledge are of two types: Declerative (Statement of Fact) and Imperative Knowledge (How To?)
+* Basic Machine Architecture
+* Alan Turing Computation (You can compute anything using 6 basic primitives.) Modern Programming Language have more convinient set of primitives. Anything computable in one programming language is computable in any other programming language.
+* Python Basics: Syntax and Semantics.
+* Everything in Python is an object. Python Program manipulate Data Objects.
 * Scalar and Non Scalar Objects.(Scalar: Very Basic Objects, Cannot be Divided(int,float,bool,none type) and Non Scalar:Can be Divided(Set, Tuples))
-* Type Conversion-Casting
-* Operator Precedence
+* Type Conversion-Casting: Can convert object of one type to another: Take care of this in python, used in multiple places.
+* Operator Precedence - PEMDAS
+* Variables: Keep a descriptive name and put some values into it. No need to specify the data type. Python is dynamically typed language.
 
-### Lecture 2:
+
+### Lecture 2: Branching and Iteration
 * Strings
 * input()- this gives you string so you must cast it. int(input("Enter a Number"))
 * Comparison Operator
@@ -52,7 +57,7 @@
     * While Loop
     * For Loop --> range(start,stop,step)
 
-### Lecture 3:
+### Lecture 3: String Manipulation, Guess and Check, Approximations, Bisection
 * String Manipulation
     * len()
     * indexing
@@ -64,7 +69,7 @@
     * Bisection Search
 
 
-### Lecture 4:
+### Lecture 4: Decomposition, Abstractions, Functions	
 * Good Programming
 * Decomposition using Functions
 * Abstraction
@@ -73,7 +78,7 @@
 * Function as Argument
 
 
-### Lecture 5:
+### Lecture 5: Tuples, Lists, Aliasing, Mutability, Cloning	
 * Tuples
     * Immutable 
     * Indexing
@@ -106,7 +111,7 @@
 * Mutability [:]
 * Cloning
 
-### Lecture 6:
+### Lecture 6: Recursion, Dictionaries	
 * Recursion
     * Algorithmically: Divide and Conquer
     * Semantically: Function calls itself 
@@ -123,7 +128,7 @@
     * dictionary.key()--> gives all keys in no specific order
     * dictionary.value()--> gives all value in no specific order
     * Inefficient Fibonacci can be made efficient using Dictionaries
-### Lecture 7:
+### Lecture 7: Testing, Debugging, Exceptions, Assertions	
 * Aim for High Quality: Analogy with Soup
 * Testing
     * Unit Testing
@@ -142,14 +147,14 @@
     * raise
 * Assertions   
 
-### Lecture 8:
+### Lecture 8: Object Oriented Programming	
 * Object
 * OOP and Advantages of OOP
 * Creating and Using Classes
 * Define classes: data instances and methods or behaviour
 * Special Operators
 
-### Lecture 9:
+### Lecture 9: Python Classes and Inheritance	
 * Write code from two Perspective: Implementing the Class, Using the Class
 * Class Definition of an object type and Instance of Class
 * Use of Object Oriented Programming
@@ -159,14 +164,14 @@
 * Hierarchies
 * Class Variables
 
-### Lecture 10:
+### Lecture 10: Understanding Program Efficiency, Part 1	
 
 
 
-### Lecture 11:
+### Lecture 11: Understanding Program Efficiency, Part 2	
 
 
-### Lecture 12:
+### Lecture 12: Searching and Sorting	
 
 
 # Princeton Courses
