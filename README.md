@@ -43,6 +43,7 @@
 * Operator Precedence - PEMDAS
 * Variables: Keep a descriptive name and put some values into it. No need to specify the data type. Python is dynamically typed language.
 
+[PSET 0](https://gist.github.com/riya1606/648df233ad888c5fe51450cf74edbff6)
 
 ### Lecture 2: Branching and Iteration
 * Strings
