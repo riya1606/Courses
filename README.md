@@ -1,7 +1,7 @@
 
 # MIT Courses
 ## Introduction to Computer Science and Programming in Python - Dr. Ana Bell
-### Pre Requisite:
+### Other than this course:
 
 * Programming Language and Scripting Language:- 
      * Program: A sequence of instructions written so that a computer can perform certain task.
