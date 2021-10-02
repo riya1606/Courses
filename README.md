@@ -177,6 +177,10 @@
 
 ### Lecture 12: Searching and Sorting	
 
+## Introduction to Computational Thinking and Data Science - Prof. John Guttag
+
+
+### Lecture 1: 
 
 # Princeton Courses
 ## Bitcoin and Cryptocurrency Technologies
